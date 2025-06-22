@@ -1,0 +1,71 @@
+{
+  "music.game": {
+    "sounds": ["music/game/overworld/my_music"]
+  },
+  "music.game.creative": {
+    "sounds": ["music/game/overworld/my_music"]
+  },
+  "music.game.credits": {
+    "sounds": ["music/game/overworld/my_music"]
+  },
+  "music.game.end": {
+    "sounds": ["music/game/overworld/my_music"]
+  },
+  "music.game.end.dragon": {
+    "sounds": ["music/game/overworld/my_music"]
+  },
+  "music.game.nether": {
+    "sounds": ["music/game/overworld/my_music"]
+  },
+  "music.game.water": {
+    "sounds": ["music/game/overworld/my_music"]
+  },
+  "music_disc.13": {
+    "sounds": ["music/records/my_music"]
+  },
+  "music_disc.cat": {
+    "sounds": ["music/records/my_music"]
+  },
+  "music_disc.blocks": {
+    "sounds": ["music/records/my_music"]
+  },
+  "music_disc.chirp": {
+    "sounds": ["music/records/my_music"]
+  },
+  "music_disc.far": {
+    "sounds": ["music/records/my_music"]
+  },
+  "music_disc.mall": {
+    "sounds": ["music/records/my_music"]
+  },
+  "music_disc.mellohi": {
+    "sounds": ["music/records/my_music"]
+  },
+  "music_disc.stal": {
+    "sounds": ["music/records/my_music"]
+  },
+  "music_disc.strd": {
+    "sounds": ["music/records/my_music"]
+  },
+  "music_disc.ward": {
+    "sounds": ["music/records/my_music"]
+  },
+  "music_disc.11": {
+    "sounds": ["music/records/my_music"]
+  },
+  "music_disc.wait": {
+    "sounds": ["music/records/my_music"]
+  },
+  "music_disc.pigstep": {
+    "sounds": ["music/records/my_music"]
+  },
+  "music_disc.otherside": {
+    "sounds": ["music/records/my_music"]
+  },
+  "music_disc.relic": {
+    "sounds": ["music/records/my_music"]
+  },
+  "music_disc.5": {
+    "sounds": ["music/records/my_music"]
+  }
+}

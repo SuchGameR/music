@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "OIIA Cat BGM into Overworld - きーうぃばーど",
+    "description": "All overworld BGM and records use one song. version 1",
+    "uuid": "78a1cb61-c7f9-4fcd-b946-3ddabdfb1f6b",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "efbfc765-6e57-4a89-9e2e-649c84cc68ef",
+      "version": [1, 0, 0]
+    }
+  ]
+}
